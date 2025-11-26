@@ -40,16 +40,13 @@ Cohort-level results were synthesised using both:
 
 ### 🔹 Polygenic Score (PGS) Calculation Scripts
 Scripts used for generating the 18 PGSs across cohorts.  
+**Created by:** Lidia Fortaneruya (Happy Mum Consortium)
 **Location:** `./pgs_calculation/`
 
 ### 🔹 Figure Generation Scripts
 Scripts used for creating all figures included in the study.  
+**Created by:** Adrian Dahl Askelund
 **Location:** `./figures/`
-
----
-
-## 🔧 Requirements
-Please refer to the subfolder README files for software versions, environment setup, and package dependencies specific to each analysis type.
 
 ---
 
@@ -59,9 +56,10 @@ If you use these scripts or data processing workflows, please cite our study (ci
 ---
 
 ## 📬 Contact
-For questions or collaboration inquiries, please contact:  
-**Li Tian**  
-**M. Shahisavandi**
+For questions, please contact:  
+**Li Tian**      li.tian@helsinki.fi 
+**M. Shahisavandi** m.shahisavandi@erasmusmc.nl
+**A.Dahl Askelund** Jo.Adrian.Dahl.Askelund@fhi.no
 
 ---
 
