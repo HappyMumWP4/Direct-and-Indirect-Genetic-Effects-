@@ -1,9 +1,71 @@
-This readme file created as description for the code repository of #Direct and Indirect Genetic Effects of Parental Susceptibility to Mental Health Conditions and Related Traits on Children’s Behavioural Difficulties: A Multi-Cohort Study#
-We analysed data from eight European birth cohorts, including more than 33,000 parent–child trios. For each cohort, we generated 18 polygenic scores (PGSs) related to mental health, neurodevelopmental conditions, educational attainment (EA), and substance use for children (PGSc), mothers (PGSm), and fathers (PGSf). These scores were used to predict child externalising, internalising, and overall behavioural difficulties, reported by parents during both preschool and school-age periods. Cohort-specific results were then synthesised using both univariate and multivariate meta-analysis approaches.
-the scripts for cohort level aanalsyis can be find here  created by M.Shahisavandi and Li Tian 
-the scripts for univarite meta analysis can be find here craeted by Li Tian 
-the scripts for multivariate analysis can be find here  created by Li Tian 
-the scripts for PGS calculation can be find here
-the script for craeting figuers can be find here 
+# Direct and Indirect Genetic Effects of Parental Susceptibility to Mental Health Conditions and Related Traits on Children’s Behavioural Difficulties: A Multi-Cohort Study
+
+This repository contains the analysis scripts used in the study **“Direct and Indirect Genetic Effects of Parental Susceptibility to Mental Health Conditions and Related Traits on Children’s Behavioural Difficulties: A Multi-Cohort Study.”**
+
+## 📘 Study Overview
+We analysed data from **eight European birth cohorts**, comprising **over 33,000 parent–child trios**.  
+For each cohort, we generated **18 polygenic scores (PGSs)** related to:
+- Mental health conditions  
+- Neurodevelopmental conditions  
+- Educational attainment (EA)  
+- Substance use  
+
+PGSs were computed for:
+- **Children (PGS<sub>c</sub>)**
+- **Mothers (PGS<sub>m</sub>)**
+- **Fathers (PGS<sub>f</sub>)**
+
+These PGSs were used to predict **child behavioural difficulties** (externalising, internalising, and total problem scores), reported by parents during **preschool** and **school-age** periods.
+
+Cohort-level results were synthesised using both:
+- **Univariate meta-analysis**, and  
+- **Multivariate meta-analysis** approaches.
+
+---
+
+## 📁 Repository Structure
+
+### 🔹 Cohort-Level Analysis Scripts
+*Cohort-specific analysis scripts*  
+**Created by:** M. Shahisavandi & Li Tian  
+**Location:** `./cohort_level_analysis/`
+
+### 🔹 Univariate Meta-Analysis Scripts
+**Created by:** Li Tian  
+**Location:** `./meta_analysis_univariate/`
+
+### 🔹 Multivariate Meta-Analysis Scripts
+**Created by:** Li Tian  
+**Location:** `./meta_analysis_multivariate/`
+
+### 🔹 Polygenic Score (PGS) Calculation Scripts
+Scripts used for generating the 18 PGSs across cohorts.  
+**Location:** `./pgs_calculation/`
+
+### 🔹 Figure Generation Scripts
+Scripts used for creating all figures included in the study.  
+**Location:** `./figures/`
+
+---
+
+## 🔧 Requirements
+Please refer to the subfolder README files for software versions, environment setup, and package dependencies specific to each analysis type.
+
+---
+
+## 📄 Citation
+If you use these scripts or data processing workflows, please cite our study (citation details will be added when the manuscript is published).
+
+---
+
+## 📬 Contact
+For questions or collaboration inquiries, please contact:  
+**Li Tian**  
+**M. Shahisavandi**
+
+---
+
+*This repository supports transparency and reproducibility of genetic and epidemiological analyses across multi-cohort studies.*
+
 
 
