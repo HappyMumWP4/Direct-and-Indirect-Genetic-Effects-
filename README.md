@@ -41,7 +41,7 @@ Cohort-level results were synthesised using both:
 ### 🔹 Polygenic Score (PGS) Calculation Scripts
 Scripts used for generating the 18 PGSs across cohorts.  
 **Created by:** Lidia Fortaneruya (Happy Mum Consortium)
-**Location:** `./pgs_calculation/`
+**Location:** `./polygenic risk score/`
 
 ### 🔹 Figure Generation Scripts
 Scripts used for creating all figures included in the study.  
